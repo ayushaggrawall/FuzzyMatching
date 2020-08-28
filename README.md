@@ -1,0 +1,1 @@
+Matches companies name. Two different JSON having CIN and GSTIN in seperate files with common company name. Matching the companies from those two JSON using fuzzy logic. JSON size very large (800mb)
